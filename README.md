@@ -1,8 +1,5 @@
 <div align="center">
-<video controls autoplay muted loop width="100%">
-  <source src="./Banner.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 </div>
 
 <h3 align="center">
@@ -123,7 +120,7 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
+<h5 align="center">Don't hesitate to ask.</h5>
 
 ---
 
@@ -131,6 +128,6 @@
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+Credit: [Natalia Guzman](https://github.com/NatGuz1608)
 
-Last Edited on: 26/02/2025
+Last Edited on: 26/09/2025
