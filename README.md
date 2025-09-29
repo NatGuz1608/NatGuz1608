@@ -1,12 +1,8 @@
 <div align="center">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://youtu.be/Oks_nT9S60o" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+<video controls autoplay muted loop width="100%">
+  <source src="Banner.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 </div>
 
 <h3 align="center">
