@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" alt="GIF" src="https://github.com/NatGuz1608/NatGuz1608/blob/main/Banner.mp4" width="350px" height="250px" />
+<img align="right" alt="GIF" src="https://github.com/NatGuz1608/NatGuz1608/blob/main/Banner(1).mp4" width="350px" height="250px" />
 </div>
 
 <h3 align="center">
